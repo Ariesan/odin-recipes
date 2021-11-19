@@ -1,0 +1,49 @@
+body {
+    background-color: plum;
+    color: blueviolet;
+    font-size: 21px;
+    font-family: cursive;
+}
+
+.intro {
+    color: blueviolet;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+.top-section {
+color: black;
+width: 900px;
+margin-left: 100px;
+margin-bottom: 25px;
+border-color: blueviolet;
+border-style: dashed;
+padding: 25px;
+background-image: url(../images/AppleStrudel.jpg);
+background-size: cover;
+}
+
+.middle-section {
+    color: black;
+    width: 900px;
+    margin-left: 100px;
+    margin-bottom: 25px;
+    border-color: blueviolet;
+    border-style: dashed;
+    padding: 25px;
+    background-image: url(../images/mac-and-cheese-pizza.jpg);
+    background-size: cover; 
+}
+
+.bottom-section {
+    color: black;
+    width: 900px;
+    margin-left: 100px;
+    margin-bottom: 25px;
+    border-color: blueviolet;
+    border-style: dashed;
+    padding: 25px;
+    background-image: url(../images/Mango-Juice.jpg);
+    background-size: cover; 
+    
+}
